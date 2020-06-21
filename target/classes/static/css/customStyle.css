@@ -1,0 +1,37 @@
+@charset "ISO-8859-1";
+
+.material-icons {
+	vertical-align: middle;
+}
+
+.login-card {
+	margin-top: 4rem;
+	width: 24rem;
+}
+
+.register-card {
+	margin-top: 3.5rem;
+	width: 24rem;
+}
+
+.err {
+	font-size: 14px;
+	color: red;
+}
+
+#mylist {
+	margin-top: 4rem;
+}
+
+
+#notLoggedIn {
+	margin-top: 4rem;
+	text-align: center;
+}
+
+.invalid-credentail {
+	margin-top : 2rem;
+	font-size: 20px;
+	text-align: center;
+	color: red;
+}
